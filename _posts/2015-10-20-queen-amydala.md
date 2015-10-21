@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-10-20T00:43:56.549Z'
+datePublished: '2015-10-21T20:19:33.418Z'
 publisher:
   domain: ''
   name: ''
 title: Queen Amydala
-dateModified: '2015-10-20T00:41:06.961Z'
+dateModified: '2015-10-20T00:43:56.549Z'
 sourcePath: _posts/2015-10-20-queen-amydala.md
 published: true
 inFeed: true
