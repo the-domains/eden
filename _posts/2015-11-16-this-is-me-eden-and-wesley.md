@@ -1,12 +1,12 @@
 ---
 description: This is me Eden and  Wesley
 author: []
-datePublished: '2015-11-16T22:48:07.809Z'
+datePublished: '2015-11-16T22:49:53.411Z'
 publisher:
   domain: ''
   name: ''
 title: ' This is me Eden and  Wesley'
-dateModified: '2015-11-16T22:46:50.925Z'
+dateModified: '2015-11-16T22:48:07.809Z'
 sourcePath: _posts/2015-11-16-this-is-me-eden-and-wesley.md
 published: true
 inFeed: true
