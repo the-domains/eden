@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-16T23:18:46.686Z'
+datePublished: '2015-11-16T23:20:13.382Z'
 publisher:
   domain: ''
   name: ''
 title: Eden video
-dateModified: '2015-11-16T23:18:18.208Z'
+dateModified: '2015-11-16T23:18:46.686Z'
 sourcePath: _posts/2015-11-16-eden-video.md
 published: true
 inFeed: true
